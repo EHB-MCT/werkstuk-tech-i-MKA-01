@@ -1,1 +1,72 @@
 Zet hier de arduino code
+
+
+
+
+const int LED = 4;
+const int LED2 = 3;
+const int LED3 = 7;
+const int LED4 = 6;
+const int LED5 = 5;
+
+//
+const int buttonPin = 2;     // the number of the pushbutton pin
+//const int ledPin =  13;      // the number of the LED pin
+//
+int buttonState = 0;         // variable for reading the pushbutton status
+//
+
+void setup() {
+  pinMode (LED, OUTPUT);
+  pinMode (LED2, OUTPUT);
+  pinMode (LED3, OUTPUT);
+  pinMode (LED4, OUTPUT);
+  pinMode (LED5, OUTPUT);
+ //
+  // initialize the LED pin as an output:
+  
+  // initialize the pushbutton pin as an input:
+  pinMode(buttonPin, INPUT);
+  //
+ for(int value = 0; value<=255; value++) {
+  analogWrite(LED, value);
+
+ 
+ }
+
+
+ for(int value = 255; value>=0; value--) {
+   analogWrite(LED2, value);
+   analogWrite(LED3, value);
+   analogWrite(LED4, value);
+   analogWrite(LED5, value);
+ }
+}
+
+
+void loop() {
+ 
+  // read the state of the pushbutton value:
+  buttonState = digitalRead(buttonPin);
+
+  // check if the pushbutton is pressed. If it is, the buttonState is HIGH:
+  if (buttonState == HIGH) {
+    // turn LED on:
+    
+    digitalWrite (LED, LOW); 
+    digitalWrite (LED2, LOW);
+    digitalWrite (LED3, LOW);
+    digitalWrite (LED4, LOW);
+     digitalWrite (LED5, LOW);
+  } else {
+    // turn LED off:
+        
+     digitalWrite(LED, HIGH);
+    digitalWrite (LED2, HIGH);
+    digitalWrite (LED3, HIGH);
+    digitalWrite (LED4, HIGH);
+    digitalWrite (LED5, HIGH);
+  }
+  //
+ 
+}
