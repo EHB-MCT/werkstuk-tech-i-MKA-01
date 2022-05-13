@@ -15,8 +15,8 @@ Vul dit document aan, en deponeer de bestanden die je gebruikte in de beschikbar
 Vul volgende elementen in, deze zullen dezelfde zijn voor iedereen in de groep. Zet een "!" naast het deel dat jij hebt gedaan en "!!" naast het element dat je dynamisch maakte
 
 1. (status quo)
-2. (Call to adventure)
-3. (Guidance)
+2. (Call to adventure) !!
+3. (Guidance) !
 4. (Crossing)
 5. (Trials)
 6. (Approach)
