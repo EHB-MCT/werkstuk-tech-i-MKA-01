@@ -5,9 +5,9 @@ Vul dit document aan, en deponeer de bestanden die je gebruikte in de beschikbar
 
 ## Eige informatie
 
-- Voornaam Achternaam
-- Klasgroep
-- Groepsnaam
+- Maryam Janssen
+- groep D
+- Under the Sea
 
 
 ## Storyline 
@@ -30,11 +30,12 @@ Vul volgende elementen in, deze zullen dezelfde zijn voor iedereen in de groep. 
 
 ## Experience
 
-Leg uit hoe je de experience van de gebruiker vormgaf en waar je nog dingen zou toevoegen (licht, geluid, materiaal, etc)
+Bij Call To Adventure geeft dit een verbeelding van wat het meisje in haar vader's dagboek vindt. Het land omschreef wonders.
+Bij Guidance werd het meisje eerst gezien door iemand bij het politie station waar ze de kaart steelt, het zal voelen alsof het wereld zich inkruipt. blijkbaar gaat hij haar helpen en voelt ze hoop dat er meer licht in haar uitstraalt en haar avontuur begon.
 
 ## Interaction
 
-Leg uit welke interaction je hebt toegevoegd, en hoe je deze duidelijk maakt aan de gebruiker. Voeg toe hoe je deze in de toekomst anders zou aanpakken, of waar je meer duidelijkheid zou creeeren indien nodig.
+Het land wordt als een wonder omschreven. Daarvoor branden de lichtjes voor een grote wonder. Het geeft verschillende kleuren aan, net zoals een regenboog. Wanneer er op het knop wordt gedrukt gaan de lichtjes branden. Ik vind het zelf wel goed.
 
 
 
